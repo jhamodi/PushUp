@@ -12,9 +12,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void TestUpload() {
 
-        int=10;
-
+        int a = 10;
+        int i = 1;
+        inttt = 10;
     }
-
 }
 }
